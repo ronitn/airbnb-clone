@@ -13,8 +13,8 @@ function Header() {
       <div className="navbar">
         <img src={logo} alt="logo" className="navbar-logo" />
         <div className="search-bar">
-          <div className="search-bar-text">Anywhere</div>
-          <div className="search-bar-text">Any Week</div>
+          <div className="search-bar-text">Search Destination</div>
+          <div className="search-bar-text">Add Date</div>
           <div className="search-bar-text2">Add guests</div>
           <div className="search-icon-div">
             <SearchRoundedIcon className="search-icon" />
